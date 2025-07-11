@@ -53,6 +53,14 @@ nav a:hover {
     margin-bottom: 1rem;
 }
 
+#hero-img {
+    max-width: 100%;
+    height: auto;
+    border: 4px solid #FF0000;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
 #hero-msg h1,
 #hero-msg h2,
 #hero-msg h3 {
@@ -111,3 +119,5 @@ footer {
     color: #FFFFFF;
     font-size: 0.9rem;
 }
+
+/* History css*/
