@@ -121,3 +121,22 @@ footer {
 }
 
 /* History css*/
+.singer-profile .profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.singer-profile img {
+    width: 200px;
+    height: auto;
+    border: 3px solid #FFFFFF;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
+
+.profile-text {
+    flex: 1;
+    min-width: 250px;
+}
